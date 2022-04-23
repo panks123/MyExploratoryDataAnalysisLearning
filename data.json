@@ -1,0 +1,6 @@
+{
+    "Name":["Pankaj","Kumar","Amyra","Dastur","Renu","Kumari"],
+    "Marks":[23,56,45,67,87,56],
+    "Class":[4,6,7,4,5,6],
+    "Passed":[True,False,True,False,True,True]
+}
